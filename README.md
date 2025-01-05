@@ -6,7 +6,7 @@
 - [在线预览](http://buqiyuan.gitee.io/vue3-antdv-admin/)
 - [项目文档](https://buqiyuan.github.io/vue3-antdv-admin-docs/)
 - [swagger 文档](https://nest-api.buqiyuan.site/api-docs/)
-- [后端仓库地址](https://github.com/buqiyuan/nest-admin)
+- [后端仓库地址](https://github.com/accopy/nest-admin)
 - [gitee 地址](https://gitee.com/buqiyuan/vue3-antdv-admin)
 - 根据 JSON 生成 typescript 的工具：[http://json2ts.com/](http://json2ts.com/)
 
